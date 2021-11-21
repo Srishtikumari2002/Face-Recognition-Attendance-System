@@ -4,6 +4,10 @@ Face Detection | Recognition | Attendance
 
 Our project aims to provide an automtic face recognition based attendance system in order to reduce the load of taking attendance manually.
 
+## Screenshots :camera:
+-----------------------------------
+
+
 ## Features :clipboard:
 ---------------------------
 * Check Camera
@@ -22,7 +26,7 @@ Module Used -
 All The Module are Latest Version.
 * OpenCV Contrib 4.0.1
 * Numpy
-* Pandas
+* Pillow
 * CSV
 
 
