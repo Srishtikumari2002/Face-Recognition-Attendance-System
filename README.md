@@ -6,7 +6,7 @@ Our project aims to provide an automtic face recognition based attendance system
 
 ## Screenshots :camera:
 -----------------------------------
-
+![](https://github.com/Srishtikumari2002/Face-Recognition-Attendance-System/blob/main/demo.gif)
 
 ## Features :clipboard:
 ---------------------------
